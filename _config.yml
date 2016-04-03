@@ -1,7 +1,7 @@
 name: John Domzalski
 favicon: null
-layout_spectrum: 0.19912537862546742
-typography_spectrum: 0.060459636617451906
+layout_spectrum: 0.62034
+typography_spectrum: 0.36367
 title: John Domzalski Home Business Success tips
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.06424423423595726
-  lightness: 0.2548604761250317
-  saturation: 0.00455623003654182
-  rhythmicContrast: 0.05467505753040314
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
