@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If I could only\_share one thing\_with you about me it would be I genuinely love people. I believe there is only one business on Planet Earth - making someone's life better. To the degree you do that, is the degree of success you have."
-datePublished: '2016-04-03T01:54:01.843Z'
-dateModified: '2016-04-03T01:50:52.490Z'
+datePublished: '2016-04-03T02:10:36.959Z'
+dateModified: '2016-04-03T02:09:20.122Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-if-i-could-only-share-one-thing-with-you-about-me-it-would-b.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-if-i-could-only-share-one-thing-with-you-about-me-it-would-b.md
-published: true
 url: if-i-could-only-share-one-thing-with-you-about-me-it-would-b/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/176d706c-5449-4ce2-be37-809888d1eab0.jpg)
+
 ## Hello, I'm  John Domzalski
 
 If I could only **share one thing **with you about me it would be I genuinely love people. I believe there is only one business on Planet Earth - making someone's life better. To the degree you do that, is the degree of success you have.
