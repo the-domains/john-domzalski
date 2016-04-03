@@ -1,0 +1,28 @@
+name: John Domzalski
+favicon: null
+layout_spectrum: 0.19912537862546742
+typography_spectrum: 0.060459636617451906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.06424423423595726
+  lightness: 0.2548604761250317
+  saturation: 0.00455623003654182
+  rhythmicContrast: 0.05467505753040314
+purpose: []
