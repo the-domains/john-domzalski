@@ -1,20 +1,4 @@
-name: John Domzalski
-favicon: null
-layout_spectrum: 0.33505
 typography_spectrum: 0.36367
-title: John Domzalski Home Business Success tips
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#272727'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.33505
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: John Domzalski
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: My Facebook Page
+    url: 'http://facebook.com/johndomzalskipage'
+    type: external
+favicon: null
+title: John Domzalski Home Business Success tips
 purpose: []
